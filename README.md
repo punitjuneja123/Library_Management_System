@@ -1,7 +1,7 @@
 # Library_Management_System
 
 # Docker Hub Link
-docker pull punitj123/librarymanagementsystem:latest
+https://hub.docker.com/r/punitj123/librarymanagementsystem
 
 ### To run docker images
 docker run -p 4500:4500 punitj123/librarymanagementsystem
